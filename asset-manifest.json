@@ -1,7 +1,7 @@
 {
   "main.css": "/TextFormatter/static/css/main.bb921b47.chunk.css",
-  "main.js": "/TextFormatter/static/js/main.c4d668f4.chunk.js",
-  "main.js.map": "/TextFormatter/static/js/main.c4d668f4.chunk.js.map",
+  "main.js": "/TextFormatter/static/js/main.7a76ff00.chunk.js",
+  "main.js.map": "/TextFormatter/static/js/main.7a76ff00.chunk.js.map",
   "static/js/1.e88f3e01.chunk.js": "/TextFormatter/static/js/1.e88f3e01.chunk.js",
   "static/js/1.e88f3e01.chunk.js.map": "/TextFormatter/static/js/1.e88f3e01.chunk.js.map",
   "static/js/2.3a2e0e0b.chunk.js": "/TextFormatter/static/js/2.3a2e0e0b.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/TextFormatter/static/js/runtime~main.1e9f4f33.js.map",
   "static/css/main.bb921b47.chunk.css.map": "/TextFormatter/static/css/main.bb921b47.chunk.css.map",
   "index.html": "/TextFormatter/index.html",
-  "precache-manifest.824593a93628d3a6dab54bcbbfdaf997.js": "/TextFormatter/precache-manifest.824593a93628d3a6dab54bcbbfdaf997.js",
+  "precache-manifest.665305a69a43c6d3e9633f31456dac2b.js": "/TextFormatter/precache-manifest.665305a69a43c6d3e9633f31456dac2b.js",
   "service-worker.js": "/TextFormatter/service-worker.js"
 }
