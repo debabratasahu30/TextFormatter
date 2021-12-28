@@ -1,0 +1,15 @@
+.circle:before {
+    content: ' \25CF';
+    color: #E94A2A;
+    font-size: 50px;
+  }
+  .circle1:before {
+    content: ' \25CF';
+    color: #008A62;
+    font-size: 50px;
+  }
+  .circle2:before {
+    content: ' \25CF';
+    color: #A40042;
+    font-size: 50px;
+  }
