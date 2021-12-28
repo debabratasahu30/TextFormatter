@@ -36,7 +36,7 @@ function App() {
   return (
     <>
     {/* <Router> */}
-      <Navbar title="TextUtility" mode={mode} toggleHandler={toggleMode} />
+      <Navbar title="Text Formatter" mode={mode} toggleHandler={toggleMode} />
       <Alert alertMsg={alert} />
       <TextForm showAlertHandler={showAlert} titleform="Enter the text to analyse below" mode={mode} />
       {/* <Switch>
