@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import { GrammarlyTextArea } from "@grammarly/react-textarea";
 export default function TextForm(props) {
   const textUppercaseHandler = () => {
     // console.log("Clicked Upper case");
@@ -81,7 +81,7 @@ export default function TextForm(props) {
             </h4>
             <hr />
             <div className="mb-3">
-              <textarea
+              <GrammarlyTextArea
                 className="form-control"
                 id="textform"
                 style={{
@@ -91,7 +91,7 @@ export default function TextForm(props) {
                 onChange={handleOnChange}
                 rows="6"
                 value={textForm}
-              ></textarea>
+              />
             </div>
             <button disabled={textForm.length===0} className="btn btn-primary my-1" onClick={textUppercaseHandler}>
               Convert to UpperCase
